@@ -4,18 +4,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 27353035))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
+API_ID = int(getenv("API_ID", 28025330))
+API_HASH = getenv("API_HASH", "935e4ad87ef7ed016bd926baf95c4323")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "6257927828"))
+OWNER_ID = int(getenv("OWNER_ID", "1380008589"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "STORM_CHATZ")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "STORM_TECHH")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "kexx_xd")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "DEVELOPERSOFBOT")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "DEVELOPERSOFBOT")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@ZODEX66")
 
 # Random Start Images
 IMG = [
-    "https://graph.org/file/c0f3f7cbbd24b8e9bba1c.jpg"
+    "https://graph.org/file/7d5a442370c9981258fbe.jpg"
 ]
 
 
