@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/kxunal1834/ChatbotV2",
+  "repository": "https://github.com/ZEOOX9210/Anurag/ChatbotV2",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
